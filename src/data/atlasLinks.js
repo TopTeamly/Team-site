@@ -16,8 +16,8 @@ export const atlasSecondaryTracks = [
   {
     grade: 'الأولى ثانوي',
     links: [
-      { label: 'القسم العلمي', url: 'https://t.me/atlas1ly' },
-      { label: 'القسم الأدبي', url: 'https://t.me/atlas_1ly' },
+      { label: 'القسم العام', url: 'https://t.me/atlas1ly' },
+     
     ],
   },
 ]
