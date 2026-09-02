@@ -5,5 +5,5 @@ import react from '@vitejs/plugin-react'
 // https://<username>.github.io/THETOPTEAM-LY-2026august/
 export default defineConfig({
   plugins: [react()],
-  base: '/THETOPTEAM-LY-2026august/',
+  base: '/Team-site/',
 })
