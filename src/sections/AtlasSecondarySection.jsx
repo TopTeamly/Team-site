@@ -17,7 +17,7 @@ export default function AtlasSecondarySection() {
           {atlasSecondaryTracks.map((track, i) => (
             <Reveal as="div" className="atlas-track" delay={i * 90} key={track.grade}>
               <h3>{track.grade}</h3>
-              <p className="track-sub">القسم العلمي والقسم الأدبي</p>
+              <p className="track-sub">الاقسام :</p>
               {track.links.map((link) => (
                 <a
                   key={link.url}
